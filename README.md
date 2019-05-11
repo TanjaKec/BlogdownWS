@@ -1,7 +1,7 @@
 # BlogdownWS
 Material on how to build a website using HUGO in `blogdown`
 
-This repo contains material for [WiDS_SU conference](https://widssubotica.netlify.com/) workshop.
+This repo contains material for `blogdown' workshop.
 
 There are two folders:
 -	Slides for the workshop created using xaringan package
