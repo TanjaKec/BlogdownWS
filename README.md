@@ -13,4 +13,4 @@ i.	connect to GitHub
 ii.	build your website
 iii.	deploy your website
 
-Accompanying [slides](https://tanjakec.github.io/WiDS/Blogdown_WS_Slides/blogdown_workshop.html)
+Accompanying [slides](https://tanjakec.github.io/BlogdownWS/Blogdown_WS_Slides/blogdown_workshop.html)
