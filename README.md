@@ -10,7 +10,9 @@ There are two folders:
 There are 3 sections: 
 
 i.	connect to GitHub
+
 ii.	build your website
+
 iii.	deploy your website
 
 Accompanying [slides](https://tanjakec.github.io/BlogdownWS/Blogdown_WS_Slides/blogdown_workshop.html)
